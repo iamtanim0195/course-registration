@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "courseName": "Introduction to OOP Python",
+        "image": "https://i.ibb.co/svzwNgP/Rectangle-2.png",
+        "credit": 3,
+        "price": 49.99,
+        "courseDetails": "This comprehensive course is designed to teach you the principles and practices of Object-Oriented Programming (OOP) using the Python programming language. OOP is a fundamental concept in software development, and Python is a versatile and popular programming language known for its support of object-oriented programming."
+    },
+    {
+        "id": 2,
+        "courseName": "Database (MySQL)",
+        "image": "https://i.ibb.co/ss05Ywd/Rectangle-2-1.png",
+        "credit": 4,
+        "price": 69.99,
+        "courseDetails": "A MySQL Database Management course is designed to provide participants with the knowledge and skills needed to effectively use MySQL for database creation, management, and optimization."
+    },
+    {
+        "id": 3,
+        "courseName": "Introduction to C Programming",
+        "image": "https://i.ibb.co/YRtYWLY/Rectangle-2-2.png",
+        "credit": 3,
+        "price": 59.99,
+        "courseDetails": "A C Programming Fundamentals course is designed to provide participants with a strong foundation in the C programming language. C is a widely-used programming language known for its simplicity, efficiency, and portability. "
+    },
+    {
+        "id": 4,
+        "courseName": "Introduction to Algorithms",
+        "image": "https://i.ibb.co/jDk85RV/Rectangle-2-3.png",
+        "credit": 5,
+        "price": 79.99,
+        "courseDetails": "An Introduction to Algorithms course aims to teach students the fundamental principles and techniques for designing and analyzing algorithms. Algorithms are step-by-step procedures for solving problems, and they are crucial in computer science for tasks ranging from sorting data to searching the web efficiently."
+    }, {
+        "id": 5,
+        "courseName": "Introduction to C++ for DSA",
+        "image": "https://i.ibb.co/vjBwptw/Rectangle-2-4.png",
+        "credit": 4,
+        "price": 64.99,
+        "courseDetails": "This course aims to introduce students to C++ programming and its role in implementing and solving various data structures and algorithmic problems. It covers the basics of C++ syntax and then delves into how C++ can be used to design and implement common data structures and algorithms efficiently."
+    }, {
+        "id": 6,
+        "courseName": "Software Engineering",
+        "image": "https://i.ibb.co/Y3zkRCs/Rectangle-2-5.png",
+        "credit": 3,
+        "price": 54.99,
+        "courseDetails": " This course provides a comprehensive overview of software engineering principles and practices. Students will learn the fundamentals of designing, developing, testing, and maintaining software systems. Emphasis will be placed on industry best practices and real-world applications."
+    }, {
+        "id": 7,
+        "courseName": "Problem-Solving Part",
+        "image": "https://i.ibb.co/PCxkQzC/Rectangle-2-6.png",
+        "credit": 4,
+        "price": 69.99,
+        "courseDetails": "Sharpen your problem-solving skills with our Problem-Solving for Software Engineers course. Dive into real-world coding challenges, algorithmic puzzles, and software design problems."
+    }, {
+        "id": 8,
+        "courseName": "SQL Database Administration",
+        "image": "https://example.com/images/sql-course.jpg",
+        "credit": 3,
+        "price": 59.99,
+        "courseDetails": "Become proficient in SQL database administration, including SQL queries and performance tuning."
+    }, {
+        "id": 9,
+        "courseName": "Basic Data Structures",
+        "image": "https://i.ibb.co/3h16Y8P/Rectangle-3.png",
+        "credit": 4,
+        "price": 74.99,
+        "courseDetails": "Build a solid foundation in data structures with our Basic Data Structures for Software Engineers course. Explore fundamental concepts such as arrays, linked lists, stacks, and queues."
+    }, {
+        "id": 10,
+        "courseName": "AWS, Cloud Computing",
+        "image": "https://i.ibb.co/X46Yw2s/Rectangle-3-1.png",
+        "credit": 6,
+        "price": 99.99,
+        "courseDetails": "Embark on your cloud journey with our Introduction to AWS and Cloud Computing course. Discover the power of cloud technology and learn to navigate Amazon Web Services (AWS). Gain hands-on experience in provisioning, managing, and securing cloud resources."
+    }
+]
