@@ -1,12 +1,19 @@
 
 import './App.css'
+import Cart from './components/Cart/Cart'
+import Courses from './components/Courses/Courses'
 
 function App() {
 
 
   return (
     <>
-      <h1 className='text-6xl bg-red-500'>hello world</h1>
+      <h1 className='text-3xl font-bold'>Course Registration</h1>
+      <div>
+        <Courses></Courses>
+        <Cart></Cart>
+      </div>
+      
     </>
   )
 }
