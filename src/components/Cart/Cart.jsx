@@ -1,11 +1,13 @@
 import PropTypes from 'prop-types'
 import Cart1 from '../Cart1/Cart1'
 
-const Cart = ({cart}) => {
+
+const Cart = ({cart,credit,totalRemaining}) => {
+ 
   return (
-    <div className="md:w-3/12 h-fit ml-12 bg-white">
+    <div className="md:w-80 h-fit ml-5 bg-white">
         <div className="mx-auto p-3 ">
-          <h1 className='text-xl text-sky-700 mt-5'>Credit Hour Remaining 7 hr</h1>
+          <h1 className='text-xl text-sky-700 mt-5'>Credit Hour Remaining {totalRemaining} hr</h1>
           <hr className="border-t border-gray-400 my-4" />
 
           <h1 className='text-2xl font-bold'>Course Name</h1>
@@ -16,7 +18,7 @@ const Cart = ({cart}) => {
               ></Cart1>)
           }
           <hr className="border-t border-gray-400 my-4" />
-          <h1>Total Credit Hour : 13</h1>
+          <h1>Total Credit Hour : {credit}</h1>
         </div>
     </div>
   )

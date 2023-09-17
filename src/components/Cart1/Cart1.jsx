@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 const Cart1 = ({cart1}) => {
-    const {courseName, credit} = cart1;
+    const {courseName,} = cart1;
     return (
         <div className='bg-white'>
             

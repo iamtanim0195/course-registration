@@ -12,7 +12,7 @@ const Course = ({course, handelAddToCrat}) => {
     } = course
 
     return(
-        <div className='w-80 h-86 bg-white p-3 '>
+        <div className='w-72 h-86 bg-white p-3 '>
             <img src={image}
                 alt={
                     `cover picture of the title ${courseName}`
@@ -20,7 +20,7 @@ const Course = ({course, handelAddToCrat}) => {
             <h1 className='text-lg font-semibold'>
                 {courseName}</h1>
             <p>{courseDetails}</p>
-            <div className='flex gap-3 p-3'>
+            <div className='flex gap-3 py-3'>
                 <p className='font-medium text-xl'>$ Price:{price}</p>
                 <BsBook></BsBook> 
                 <p className='font-medium text-xl'>Credit: {credit}hr</p>

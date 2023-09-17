@@ -5,7 +5,7 @@
         "image": "https://i.ibb.co/svzwNgP/Rectangle-2.png",
         "credit": 3,
         "price": 4900,
-        "courseDetails": "This comprehensive course is designed to teach you the principles and practices of Object-Oriented Programming (OOP) using the Python programming language. OOP is a fundamental concept in software development, and Python is a versatile and popular programming language known for its support of object-oriented programming."
+        "courseDetails": "Learn Python's Object-Oriented Programming (OOP) principles and practices in this comprehensive course. Python's versatility and strong OOP support make it an ideal choice for software development."
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "image": "https://i.ibb.co/ss05Ywd/Rectangle-2-1.png",
         "credit": 4,
         "price": 6900,
-        "courseDetails": "A MySQL Database Management course is designed to provide participants with the knowledge and skills needed to effectively use MySQL for database creation, management, and optimization."
+        "courseDetails": "Master MySQL for database creation, management, and optimization in this comprehensive course. Gain the knowledge and skills needed for effective database management."
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "image": "https://i.ibb.co/YRtYWLY/Rectangle-2-2.png",
         "credit": 3,
         "price": 5900,
-        "courseDetails": "A C Programming Fundamentals course is designed to provide participants with a strong foundation in the C programming language. C is a widely-used programming language known for its simplicity, efficiency, and portability. "
+        "courseDetails": "Build a strong foundation in the C programming language with this course. Explore C's simplicity, efficiency, and portability."
     },
     {
         "id": 4,
@@ -29,41 +29,41 @@
         "image": "https://i.ibb.co/jDk85RV/Rectangle-2-3.png",
         "credit": 5,
         "price": 7999,
-        "courseDetails": "An Introduction to Algorithms course aims to teach students the fundamental principles and techniques for designing and analyzing algorithms. Algorithms are step-by-step procedures for solving problems, and they are crucial in computer science for tasks ranging from sorting data to searching the web efficiently."
+        "courseDetails": "Discover fundamental principles and techniques for designing and analyzing algorithms in this course. Algorithms are essential step-by-step problem-solving procedures widely used in computer science."
     }, {
         "id": 5,
         "courseName": "Introduction to C++ for DSA",
         "image": "https://i.ibb.co/vjBwptw/Rectangle-2-4.png",
         "credit": 4,
         "price": 6499,
-        "courseDetails": "This course aims to introduce students to C++ programming and its role in implementing and solving various data structures and algorithmic problems. It covers the basics of C++ syntax and then delves into how C++ can be used to design and implement common data structures and algorithms efficiently."
+        "courseDetails": "Explore C++ programming and its role in solving data structures and algorithmic problems in this course. Learn C++ syntax and its efficient use in designing common data structures and algorithms."
     }, {
         "id": 6,
         "courseName": "Software Engineering",
         "image": "https://i.ibb.co/Y3zkRCs/Rectangle-2-5.png",
         "credit": 3,
         "price": 5499,
-        "courseDetails": " This course provides a comprehensive overview of software engineering principles and practices. Students will learn the fundamentals of designing, developing, testing, and maintaining software systems. Emphasis will be placed on industry best practices and real-world applications."
+        "courseDetails": "Comprehensive software engineering course covering design, development, testing, and maintenance with industry best practices."
     }, {
         "id": 7,
         "courseName": "Problem-Solving Part",
         "image": "https://i.ibb.co/PCxkQzC/Rectangle-2-6.png",
         "credit": 4,
         "price": 6999,
-        "courseDetails": "Sharpen your problem-solving skills with our Problem-Solving for Software Engineers course. Dive into real-world coding challenges, algorithmic puzzles, and software design problems."
+        "courseDetails": "Enhance problem-solving skills in our Problem-Solving for Software Engineers course. Tackle real-world coding challenges, algorithmic puzzles, and software design problems."
     }, {
         "id": 8,
         "courseName": "AWS, Cloud Computing",
         "image": "https://i.ibb.co/X46Yw2s/Rectangle-3-1.png",
         "credit": 6,
         "price": 9909,
-        "courseDetails": "Embark on your cloud journey with our Introduction to AWS and Cloud Computing course. Discover the power of cloud technology and learn to navigate Amazon Web Services (AWS). Gain hands-on experience in provisioning, managing, and securing cloud resources."
+        "courseDetails": "Start your cloud journey with our AWS & Cloud Computing course. Discover cloud capabilities, master AWS, and gain hands-on cloud resource expertise."
     }, {
         "id": 9,
         "courseName": "Basic Data Structures",
         "image": "https://i.ibb.co/3h16Y8P/Rectangle-3.png",
         "credit": 4,
         "price": 7409,
-        "courseDetails": "Build a solid foundation in data structures with our Basic Data Structures for Software Engineers course. Explore fundamental concepts such as arrays, linked lists, stacks, and queues."
+        "courseDetails": "Establish a strong data structures foundation in our Basic Data Structures for Software Engineers course. Delve into essential concepts including arrays, linked lists, stacks, and queues."
     }
 ]
