@@ -20,10 +20,10 @@ const Course = ({course, handelAddToCrat}) => {
             <h1 className='text-lg font-semibold'>
                 {courseName}</h1>
             <p>{courseDetails}</p>
-            <div className='flex gap-3 py-3'>
-                <p className='font-medium text-xl'>$ Price:{price}</p>
+            <div className='flex gap-3 py-5'>
+                <p className='font-medium '>$ Price:{price}</p>
                 <BsBook></BsBook> 
-                <p className='font-medium text-xl'>Credit: {credit}hr</p>
+                <p className='font-medium '>Credit: {credit}hr</p>
             </div>
             <button onClick={()=>handelAddToCrat(course)} className='btn btn-primary w-full'>Select</button>
         </div>
