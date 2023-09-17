@@ -1,7 +1,8 @@
 import {useEffect, useState} from "react";
 import Course from "../Course/Course";
+import PropTypes from 'prop-types';
 
-const Courses = () => {
+const Courses = ({handelAddToCrat}) => {
     const [courses, setCourses] = useState([]);
 
     useEffect(() => {
@@ -9,17 +10,19 @@ const Courses = () => {
     }, []);
 
     return (
-    <div className="md:w-2/3">
-        <h1>this is Course {courses.length}</h1>
-        {
-            courses.map(course => <Course 
-                key={course.id} 
-                course={course}
-                
-                ></Course>)
-        }
-    </div>
+        <div className="md:w-4/5 grid grid-cols-3 gap-3">
+            {
+            courses.map(course => 
+                <Course 
+                    key={course.id}
+                    course={course}
+                    handelAddToCrat={handelAddToCrat}
+                    ></Course>
+            )
+        } </div>
     );
 };
-
+Courses.PropTypes = {
+    handelAddToCrat: PropTypes.func
+}
 export default Courses;

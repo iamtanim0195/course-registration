@@ -53,11 +53,11 @@
         "courseDetails": "Sharpen your problem-solving skills with our Problem-Solving for Software Engineers course. Dive into real-world coding challenges, algorithmic puzzles, and software design problems."
     }, {
         "id": 8,
-        "courseName": "SQL Database Administration",
-        "image": "https://example.com/images/sql-course.jpg",
-        "credit": 3,
-        "price": 5999,
-        "courseDetails": "Become proficient in SQL database administration, including SQL queries and performance tuning."
+        "courseName": "AWS, Cloud Computing",
+        "image": "https://i.ibb.co/X46Yw2s/Rectangle-3-1.png",
+        "credit": 6,
+        "price": 9909,
+        "courseDetails": "Embark on your cloud journey with our Introduction to AWS and Cloud Computing course. Discover the power of cloud technology and learn to navigate Amazon Web Services (AWS). Gain hands-on experience in provisioning, managing, and securing cloud resources."
     }, {
         "id": 9,
         "courseName": "Basic Data Structures",
@@ -65,12 +65,5 @@
         "credit": 4,
         "price": 7409,
         "courseDetails": "Build a solid foundation in data structures with our Basic Data Structures for Software Engineers course. Explore fundamental concepts such as arrays, linked lists, stacks, and queues."
-    }, {
-        "id": 10,
-        "courseName": "AWS, Cloud Computing",
-        "image": "https://i.ibb.co/X46Yw2s/Rectangle-3-1.png",
-        "credit": 6,
-        "price": 9909,
-        "courseDetails": "Embark on your cloud journey with our Introduction to AWS and Cloud Computing course. Discover the power of cloud technology and learn to navigate Amazon Web Services (AWS). Gain hands-on experience in provisioning, managing, and securing cloud resources."
     }
 ]
